@@ -1,0 +1,5 @@
+Tested on: 2025-10-02 20:50
+1 run, 1 passes, 0 skipped, 0 failures, 0 errors.
+Used OS/Platform: Win32 Win64 x86_64
+Image version: Pharo10.0.0 build: 539 (64 Bit)
+VM version: v10.3.8+0.a7c8a0bba - Commit: a7c8a0bba - Date: 2025-08-12 19:03:31 +0200
